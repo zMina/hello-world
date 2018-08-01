@@ -1,3 +1,3 @@
 print "hello world"
 
-#this is so cool
+# please dont write stupid commets
